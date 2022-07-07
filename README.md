@@ -3,13 +3,18 @@
 ## PERSONAL INFORMATION
 
 - Fullname: Duong Tien Hieu
-- DoB: 1996/01/12
+- DoB: 1996-01-12
 - Email: tienhieu1212@gmail.com
 - Skype: tienhieu1212@gmail.com
 
 ## EXPERIENCE
 
-- 07 / 2019 – NOW
+- 07 / 2021 – NOW
+    - FULLSTACK, **FTECH.AI**
+    - NodeJS, ReactJS, VueJS, .NET …
+
+
+- 07 / 2019 – 07 / 2021
     - FULLSTACK, **NISSHO ELECTRONIC VIETNAM**
     - Python, Odoo Framework, Android, NodeJS, Java, …
 
@@ -22,7 +27,7 @@
 - 06 / 2019
 HANOI UNIVERISITY OF MINING & GEOLOGY
     - Software Engineering
-    - Graduate 3.10/4.00
+    - Graduated 3.11/4.00
     - Microsoft Office Specialist Certificate
 
 ## SKILLS
@@ -35,6 +40,98 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 
 
 ## PROJECT
+
+### Ftech EKYC Service
+- Duration: Jun 2022
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - NodeJS, NestJS, Mobile
+- Tools: Intellij, Copilot
+- Position: Backend
+    - Collect requirements
+    - Build service to connect to AI service
+    - Build APIs for Auth, Manage & Verify EKYC Transactions
+    - Build CMS for manage Customer & Configs
+    - Refactor and fix bugs
+
+### Ftech Story
+- Duration: May 2022
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - NodeJS, Strapi, React Native
+- Tools: VSCode, Intellij, Copilot
+- Position: Backend
+    - Collect requirements
+    - Build CMS & REST APIs manage story for kids
+    - Tracking user activities
+    - Deploy CICD
+
+### Loan Chien Mobile Landing Page
+- Duration: Jan 2022 - Apr 2022
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - NextJS, Strapi
+- Tools: VSCode
+- Position: Backend, Frontend
+    - Collect requirements
+    - Build CMS & REST APIs for manage champions, items, news, wiki,...
+    - Collaborate with devops team in moving project to production
+
+### FID Web Sdk
+- Duration: Jan 2022 - Apr 2022
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - OpenID Connect, Webpack
+- Tools: VSCode
+- Position: Backend, Frontend
+    - Collect requirements
+    - Build Web SDK & write document for client service integration
+    - Refactor and fix bugs
+
+### Fbang.vn
+- Duration: Jan 2022 - Apr 2022
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - Backend: NuxtJS, Strapi, Redis
+    - Frontend: VueJs
+- Database: Mysql
+- Tools: VSCode
+- Position: Backend, Frontend
+    - Collect requirements
+    - Build APIs for News with high performance
+    - Build CMS and custom framework for PO requirements
+    - Integrate Amazon S3 for storing assets
+    - Refactor and fix bugs, give solutions
+    - Support member reviewing, refactoring source code
+    - Collaborate with devops team in moving project to production
+
+### Game.funzy.vn
+- Duration: Sep 2021 - Now
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - Backend: NextJS, NuxtJS, Strapi
+    - Frontend: ReactJS, VueJs
+- Database: Mongo
+- Tools: VSCode
+- Position: Backend, Frontend
+    - Collect requirements
+    - Coding & self test
+    - Support member reviewing, refactoring source code
+    - Collaborate with devops team in moving project to production
+
+### Viresa.org.vn
+- Duration: Jul 2021
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - Backend: NextJS, Strapi
+    - Frontend: React
+- Database: MySql
+- Tools: VSCode
+- Position: Backend, Frontend
+    - Collect requirements
+    - Coding & self test
+    - Support member reviewing, refactoring source code
+    - Deploy CI/CD dockerize image
 
 #### SBenefits - HR management
 - Duration: Mar 2021
