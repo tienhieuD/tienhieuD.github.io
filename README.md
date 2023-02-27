@@ -1,15 +1,15 @@
-# FULLSTACK DEVELOPER CV
+# CURRICULUM VITAE
 
 ## PERSONAL INFORMATION
 
 - Fullname: Duong Tien Hieu
-- DoB: 1996-01-12
+- DoB: 12/01/1996
 - Email: tienhieu1212@gmail.com
 - Skype: tienhieu1212@gmail.com
 
 ## EXPERIENCE
 
-- 07 / 2021 – NOW
+- 07 / 2021 – 03 / 2023
     - FULLSTACK, **FTECH.AI**
     - NodeJS, ReactJS, VueJS, .NET …
 
@@ -41,20 +41,22 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 
 ## PROJECT
 
-### Ftech EKYC Service
-- Duration: Jun 2022
+### EKYC Service (FTech)
+- Duration: Jun 2022 - Dec 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - NodeJS, NestJS, Mobile
 - Tools: Intellij, Copilot
 - Position: Backend
     - Collect requirements
+    - Build landing page https://demo.aihub.ftech.ai
     - Build service to connect to AI service
     - Build APIs for Auth, Manage & Verify EKYC Transactions
     - Build CMS for manage Customer & Configs
+    - Write develop documents
     - Refactor and fix bugs
 
-### Ftech Story
+### FStory (FTech)
 - Duration: May 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
@@ -66,7 +68,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Tracking user activities
     - Deploy CICD
 
-### Loan Chien Mobile Landing Page
+### Loan Chien Mobile Game (FTech)
 - Duration: Jan 2022 - Apr 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
@@ -74,10 +76,13 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 - Tools: VSCode
 - Position: Backend, Frontend
     - Collect requirements
+    - Develop landing page loanchien.funzy.vn
+    - Develop topup page napfun.vn
+    - Develop web page for events: predict, tourament, livestream event, event wheels
     - Build CMS & REST APIs for manage champions, items, news, wiki,...
     - Collaborate with devops team in moving project to production
 
-### FID Web Sdk
+### FID Web Sdk (FTech)
 - Duration: Jan 2022 - Apr 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
@@ -86,9 +91,10 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 - Position: Backend, Frontend
     - Collect requirements
     - Build Web SDK & write document for client service integration
+    - Build Web for embeded to SDK mobile (news, account, error report, ...)
     - Refactor and fix bugs
 
-### Fbang.vn
+### Fbang.vn (FTech)
 - Duration: Jan 2022 - Apr 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
@@ -105,7 +111,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Support member reviewing, refactoring source code
     - Collaborate with devops team in moving project to production
 
-### Game.funzy.vn
+### Game.funzy.vn (FTech)
 - Duration: Sep 2021 - Now
 - Programming language: JavaScript
 - Technology Or Framework: 
@@ -119,7 +125,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Support member reviewing, refactoring source code
     - Collaborate with devops team in moving project to production
 
-### Viresa.org.vn
+### Viresa.org.vn (FTech)
 - Duration: Jul 2021
 - Programming language: JavaScript
 - Technology Or Framework: 
@@ -133,7 +139,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Support member reviewing, refactoring source code
     - Deploy CI/CD dockerize image
 
-#### SBenefits - HR management
+#### SBenefits - HR management (NISSHO ELECTRONIC VIETNAM)
 - Duration: Mar 2021
 - Programming language: JavaScript, Java
 - Technology Or Framework: 
@@ -148,7 +154,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Coding & self test
     - Support member reviewing, refactoring source code
 
-#### HRT - Recruitment management
+#### HRT - Recruitment management (NISSHO ELECTRONIC VIETNAM)
 - Duration: Feb 2021
 - Programming language: JavaScript, Java
 - Technology Or Framework: 
@@ -163,7 +169,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Coding & self test
     - Deploy, review source code
 
-#### PhotoC8 - Photo management
+#### PhotoC8 - Photo management (NISSHO ELECTRONIC VIETNAM)
 - Duration: Oct 2020 - Feb 2021
 - Programming language: PHP, JavaScript, Java
 - Technology Or Framework: 
@@ -177,7 +183,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Coding & self test
     - Support test, reviewing test case & writing test data
 
-#### Net8 - Finance Transaction API Integration
+#### Net8 - Finance Transaction API Integration (NISSHO ELECTRONIC VIETNAM)
 - Duration: Jul 2020 - Sep 2020
 - Programming language: JavaScript
 - Technology Or Framework: 
@@ -191,7 +197,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Coding & self test
     - Review coding & deploy application
 
-#### Triplestar - Payroll, Attendance, HR management
+#### Triplestar - Payroll, Attendance, HR management (NISSHO ELECTRONIC VIETNAM)
 - Duration: Sep 2019 - Apr 2020
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo
@@ -208,7 +214,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Building layout module, payroll module which are reused for later projects
     - Excel skill was improved
 
-#### SOJT* - Inventory, Manifacturing management
+#### SOJT* - Inventory, Manifacturing management (NISSHO ELECTRONIC VIETNAM)
 - Duration: Jul 2019 - Sep 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo
@@ -220,7 +226,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Design report
     - Coding & self test
 
-#### Freshcrm - CRM, Project management
+#### Freshcrm - CRM, Project management (ENTRUST CONSULTING CO., LTD)
 - Duration: Apr 2019 - Jul 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, Integration: Sms, Call Center, Messenger Integration
@@ -234,7 +240,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Understand from CRM flows to Sales order created
     - Understand Facebook Graph API works & integration
 
-#### VUABIA - Ecommerce, inventory, sales, promotion, loyalty management
+#### VUABIA - Ecommerce, inventory, sales, promotion, loyalty management (ENTRUST CONSULTING CO., LTD)
 - Duration: Jan 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, Integration: Sms, Onepay, Zalo
@@ -243,7 +249,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 - Position: Suporter
     - Optimizing website's assets to speed up & increase performance
 
-#### ENSADO - Sales management
+#### ENSADO - Sales management (ENTRUST CONSULTING CO., LTD)
 - Duration: Nov 2018 - Jun 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, Integration: Sms, Lazada API
@@ -255,7 +261,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Research & test integration Lazada API
     - Coding & self test
 
-#### URBANCITY - Ecommerce, inventory, sales management
+#### URBANCITY - Ecommerce, inventory, sales management (ENTRUST CONSULTING CO., LTD)
 - Duration: Nov 2018 - Jun 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, SCSS, Jquery, ElasticSearch, Integration: Sms, Onepay, Sapo, LiveChat
@@ -267,7 +273,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Coding & self test
     - Support reviewing
 
-#### XUANHOA - Ecommerce, sales management
+#### XUANHOA - Ecommerce, sales management (ENTRUST CONSULTING CO., LTD)
 - Duration: Sep 2018 - Apr 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, SCSS, Jquery
@@ -280,7 +286,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 - Contributing & archivement:
     - Understand ecommerce & sales flows
 
-#### GIATHUOCHAPU - Ecommerce, sales management
+#### GIATHUOCHAPU - Ecommerce, sales management (ENTRUST CONSULTING CO., LTD)
 - Duration: Oct 2018 - Dec 2018
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, SCSS, Jquery
@@ -293,7 +299,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 - Contributing & archivement:
     - Understand ecommerce & sales flows
 
-#### ITBIZ - Sales, contract, email marketing management
+#### ITBIZ - Sales, contract, email marketing management (ENTRUST CONSULTING CO., LTD)
 - Duration: Oct 2018 - Dec 2018
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, SCSS, Jquery
@@ -308,7 +314,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Experiece to customize a framework
     - Learn Python programs language
 
-#### VNPTPAY WEBSITE - Frontend website
+#### VNPTPAY WEBSITE - Landing page website (ENTRUST CONSULTING CO., LTD)
 - Duration: Jul 2018 - Oct 2018
 - Programming language: JavaScript
 - Technology Or Framework: SCSS, Jquery
