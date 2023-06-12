@@ -9,7 +9,7 @@
 
 ## EXPERIENCE
 
-- 07 / 2021 – NOW
+- 07 / 2021 – 05 / 2023
     - FULLSTACK, **FTECH.AI**
     - NodeJS, ReactJS, VueJS, .NET …
 
@@ -41,12 +41,25 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
 
 ## PROJECT
 
+### Ftech CRM Service
+- Duration: Jan 2023 - May 2023
+- Programming language: JavaScript
+- Technology Or Framework: 
+    - NodeJS, NestJS, ReactJS
+- Tools: Visual Studio Code
+- Position: Backend
+    - Collect requirements and Design Database
+    - Build CMS & REST APIs for manage Authen, Role Management, Customer, Tickets, Config, Facebook API, LiveChat, ...
+    - Build frontend component for reusable
+    - Build high performance search API with ElasticSearch
+    - Refactor and fix bugs
+
 ### Ftech EKYC Service
-- Duration: Jun 2022
+- Duration: Jun 2022 - Dec 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - NodeJS, NestJS, Mobile
-- Tools: Intellij, Copilot
+- Tools: Intellij
 - Position: Backend
     - Collect requirements
     - Build service to connect to AI service
