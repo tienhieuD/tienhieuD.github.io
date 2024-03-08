@@ -72,13 +72,14 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Build Search API with ElasticSearch.
     - Build CMS Frontend with ReactJS.
 
-### FTech EKYC Service
+### FTech EKYC Service (https://demo.aihub.ftech.ai)
 - Duration: Jun 2022 - Dec 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - NodeJS, NestJS, Mobile
 - Position: Fullstack
-    - APIs for Auth, CMS Manage & Verify EKYC Transactions with externam AI service.
+    - Build APIs for Auth, CMS Manage & Verify EKYC Transactions with externam AI service.
+    - Build develop documents
     - Build CMS Frontend with ReactJS.
 
 ### FTech FStory
@@ -98,7 +99,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - NextJS, Strapi
 - Position: Backend, Frontend
     - Build CMS & REST APIs for manage champions, items, news,...
-    - Build Frontend website for events, topup, wiki.
+    - Build Frontend website for events, topup, wiki, events: predict, tourament, livestream event, event wheels.
 
 ### FTech FID Javascript SDK
 - Duration: Jan 2022 - Apr 2022
@@ -107,6 +108,7 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - OpenID Connect, Webpack
 - Position: Backend, Frontend
     - Build Javascript Web SDK using OpenID Connect protocol.
+    - Build Website to embed to mobile (news, account info, error report)
     - Build document for service integration.
 
 ### FTech Fbang livestream Platform (https://fbang.vn)
