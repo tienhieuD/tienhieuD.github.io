@@ -3,180 +3,159 @@
 ## PERSONAL INFORMATION
 
 - Fullname: Duong Tien Hieu
-- DoB: 1996-01-12
+- DoB: 12/01/1996
 - Email: tienhieu1212@gmail.com
 - Skype: tienhieu1212@gmail.com
 
-## EXPERIENCE
+## WORKING EXPERIENCE
 
-- 07 / 2021 – 05 / 2023
+- 08 / 2023 – Now
+    - FULLSTACK, **RIKKEISOFT**
+    - Python (Odoo Framework), ReactJS, …
+
+
+- 07 / 2021 – 06 / 2023 (2 years)
     - FULLSTACK, **FTECH.AI**
-    - NodeJS, ReactJS, VueJS, .NET …
+    - NodeJS (NestJS, Strapi), ReactJS, VueJS, .NET Core …
 
 
-- 07 / 2019 – 07 / 2021
+- 07 / 2019 – 07 / 2021 (2 years)
     - FULLSTACK, **NISSHO ELECTRONIC VIETNAM**
-    - Python, Odoo Framework, Android, NodeJS, Java, …
+    - Python (Odoo Framework), NodeJS (ExpressJS), Java (Spring, Android), …
 
 
-- 04 / 2018 – 07/2019
+- 04 / 2018 – 07/2019 (1 year 3 months)
     - BACKEND, **ENTRUST CONSULTING CO., LTD**
     - Python, Odoo Framework
 
 ## EDUCATION
 - 06 / 2019
 HANOI UNIVERISITY OF MINING & GEOLOGY
-    - Software Engineering
-    - Graduated 3.11/4.00
-    - Microsoft Office Specialist Certificate
+    - Major Software Engineering
+    - GPA 3.1/4.0
+    - Certificate Microsoft Office Specialist
 
 ## SKILLS
 - Familiar with Python, Java, Javascript
-- Technology & Framework like Android, Odoo, NodeJS, NextJS, ReactJS, VueJS, Docker, Gitlab CI/CD
-- Used to work with Linux/Window Server
+- Technology & Framework like Android, Odoo, NodeJS, NextJS, ReactJS, VueJS
+- Used to work with Linux/Window Server, Docker, Gitlab CI/CD
 - DBMS like SQL Server, Postgres SQL, MongoDB, MySQL
-- Have the ability to read and understand UML Diagram
-- Basic English Communication and reading technical documents
+- Have the ability to read/write UML Diagrams
+- Basic English Communication/reading/writing documents
 
 
-## PROJECT
+## PROJECTS
 
-### Ftech CRM Service
+### RIKKEISOFT TOKU**
+- Duration: Jan 2024 - March 2024
+- Programming language: JavaScript
+- Technology Or Framework: ReactJS
+- Position: Frontend
+    - Building CMS website for manage Sales Plans.
+
+### RIKKEISOFT US**
+- Duration: Aug 2023 - Dec 2023
+- Programming language: Python, JavaScript
+- Technology Or Framework: Odoo
+- Position: Backend
+    - Building & customize Manufacturing modules.
+    - Building version management to forecast product purchase quantity.
+    - Customize user UI/UX for better experience.
+
+### FTech Internal CRM Service
 - Duration: Jan 2023 - May 2023
 - Programming language: JavaScript
 - Technology Or Framework: 
     - NodeJS, NestJS, ReactJS
-- Tools: Visual Studio Code
-- Position: Backend
-    - Collect requirements and Design Database
-    - Build CMS & REST APIs for manage Authen, Role Management, Customer, Tickets, Config, Facebook API, LiveChat, ...
-    - Build frontend component for reusable
-    - Build high performance search API with ElasticSearch
-    - Refactor and fix bugs
+- Position: Fullstack
+    - Design Database & Build REST APIs for manage Authen, Role Management, Customer, Tickets, Config, Facebook API, LiveChat, ...
+    - Build Search API with ElasticSearch.
+    - Build CMS Frontend with ReactJS.
 
-### Ftech EKYC Service
+### FTech EKYC Service
 - Duration: Jun 2022 - Dec 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - NodeJS, NestJS, Mobile
-- Tools: Intellij
-- Position: Backend
-    - Collect requirements
-    - Build service to connect to AI service
-    - Build APIs for Auth, Manage & Verify EKYC Transactions
-    - Build CMS for manage Customer & Configs
-    - Refactor and fix bugs
+- Position: Fullstack
+    - APIs for Auth, CMS Manage & Verify EKYC Transactions with externam AI service.
+    - Build CMS Frontend with ReactJS.
 
-### Ftech Story
+### FTech FStory
 - Duration: May 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - NodeJS, Strapi, React Native
-- Tools: VSCode, Intellij, Copilot
 - Position: Backend
-    - Collect requirements
-    - Build CMS & REST APIs manage story for kids
-    - Tracking user activities
-    - Deploy CICD
+    - Build CMS & REST APIs manage story for kids with NodeJS (Strapi)
+    - Build service to Tracking user activities
+    - Deploy with Docker & Gitlab CI/CD
 
-### Loan Chien Mobile Landing Page
+### FTech Loan Chien Mobile Landing Page (https://lc.funzy.vn)
 - Duration: Jan 2022 - Apr 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - NextJS, Strapi
-- Tools: VSCode
 - Position: Backend, Frontend
-    - Collect requirements
-    - Build CMS & REST APIs for manage champions, items, news, wiki,...
-    - Collaborate with devops team in moving project to production
+    - Build CMS & REST APIs for manage champions, items, news,...
+    - Build Frontend website for events, topup, wiki.
 
-### FID Web Sdk
+### FTech FID Javascript SDK
 - Duration: Jan 2022 - Apr 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - OpenID Connect, Webpack
-- Tools: VSCode
 - Position: Backend, Frontend
-    - Collect requirements
-    - Build Web SDK & write document for client service integration
-    - Refactor and fix bugs
+    - Build Javascript Web SDK using OpenID Connect protocol.
+    - Build document for service integration.
 
-### Fbang.vn
+### FTech Fbang livestream Platform (https://fbang.vn)
 - Duration: Jan 2022 - Apr 2022
 - Programming language: JavaScript
 - Technology Or Framework: 
     - Backend: NuxtJS, Strapi, Redis
     - Frontend: VueJs
 - Database: Mysql
-- Tools: VSCode
 - Position: Backend, Frontend
-    - Collect requirements
-    - Build APIs for News with high performance
-    - Build CMS and custom framework for PO requirements
-    - Integrate Amazon S3 for storing assets
-    - Refactor and fix bugs, give solutions
-    - Support member reviewing, refactoring source code
-    - Collaborate with devops team in moving project to production
+    - Build CMS REST APIs for manage news, category, images ...
+    - Integrate Redis to caching and Amazon S3 for storing assets.
 
-### Game.funzy.vn
-- Duration: Sep 2021 - Now
+### FTech Game Topup (https://napfun.vn)
+- Duration: Sep 2021
 - Programming language: JavaScript
 - Technology Or Framework: 
     - Backend: NextJS, NuxtJS, Strapi
     - Frontend: ReactJS, VueJs
-- Database: Mongo
-- Tools: VSCode
+- Database: MongoDB
 - Position: Backend, Frontend
-    - Collect requirements
-    - Coding & self test
-    - Support member reviewing, refactoring source code
-    - Collaborate with devops team in moving project to production
+    - Build CMS/REST APIs for games, news, support infomation, ...
+    - Build landing website for user to topup, manage wallet, apply giftcode, ...
 
-### Viresa.org.vn
+### Viresa Website (https://viresa.org.vn)
 - Duration: Jul 2021
 - Programming language: JavaScript
 - Technology Or Framework: 
     - Backend: NextJS, Strapi
     - Frontend: React
 - Database: MySql
-- Tools: VSCode
 - Position: Backend, Frontend
-    - Collect requirements
-    - Coding & self test
-    - Support member reviewing, refactoring source code
-    - Deploy CI/CD dockerize image
+    - Build CMS/REST APIs for articles, touraments, players & other infomation
+    - Build landing website for user.
 
-#### SBenefits - HR management
-- Duration: Mar 2021
-- Programming language: JavaScript, Java
-- Technology Or Framework: 
-    - Backend: Java Spring for API, Redis
-    - Frontend: React
-    - Mobile: Android
-- Database: MySql
-- Tools: Intellij, Android Studio, Git
-- Position: Backend, Mobile
-    - Collect requirements from BA
-    - Discuss with BA & Techlead to design Mockup & decice technology used
-    - Coding & self test
-    - Support member reviewing, refactoring source code
-
-#### HRT - Recruitment management
+#### NISSHO HRT***
 - Duration: Feb 2021
 - Programming language: JavaScript, Java
 - Technology Or Framework: 
-    - Backend: NodeJS Microsoft Bot, Java Spring MVC
-    - Frontend: Html, Jquery
+    - Backend: NodeJS, Java Spring MVC
+    - Frontend: Jquery
     - Mobile: Android
     - Other: Docker, Gitlab CI, Messenger Integration
 - Database: MySql
-- Tools: Intellij, Android Studio, Git
 - Position: Backend, Mobile
-    - Collect requirements from BA
-    - Coding & self test
-    - Deploy, review source code
+    - Building API Recruitment management system.
+    - Build website CMS for admin.
 
-#### PhotoC8 - Photo management
+#### NISSHO PhotoC8**
 - Duration: Oct 2020 - Feb 2021
 - Programming language: PHP, JavaScript, Java
 - Technology Or Framework: 
@@ -184,151 +163,105 @@ HANOI UNIVERISITY OF MINING & GEOLOGY
     - Frontend: Laravel, Html, Jquery
     - Mobile: Android
 - Database: MySql
-- Tools: Intellij, Android Studio, Git, Postman
 - Position: Backend, Mobile
-    - Collect requirements from BA
-    - Coding & self test
-    - Support test, reviewing test case & writing test data
+    - Building API for Photo Management.
+    - Building Website for users to manage their family photo.
+    - Building Mobile App for users to manage their family photo.
 
-#### Net8 - Finance Transaction API Integration
+#### NISSHO Net8n**
 - Duration: Jul 2020 - Sep 2020
 - Programming language: JavaScript
 - Technology Or Framework: 
     - Backend: NodeJS Express
     - Frontend: ReactJs
 - Database: MongoDB
-- Tools: Pycharm Community, Git
 - Position: Backend, Frontend
-    - Collect requirements from BA
-    - Design UI & database
-    - Coding & self test
-    - Review coding & deploy application
+    - Designing DB & Build UI Component for integration and testing external API.
+    - Reviewing code & deploy application
 
-#### Triplestar - Payroll, Attendance, HR management
+#### NISSHO Tri***
 - Duration: Sep 2019 - Apr 2020
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend
-    - Colecting requirements from Customer
-    - Communicate & recommend solutions
-    - Design structure, database
-    - Coding & self test
-    - Review coding & deploy application
-- Contributing & archivement:
-    - Training and support junior members
-    - Building layout module, payroll module which are reused for later projects
-    - Excel skill was improved
+    - Design DB, Building & customize Payroll, Attendance, HR management modules.
+    - Building core reusable payroll module for next projects.
+    - Reviewing code & deploy application
 
-#### SOJT* - Inventory, Manifacturing management
+#### NISSHO SOJ**
 - Duration: Jul 2019 - Sep 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend
-    - Colecting requirements from BA.
-    - Communicate & recommend technical solutions
-    - Design report
-    - Coding & self test
+    - Building & customize Inventory, Manifacturing modules.
+    - Buiding Forecast report for product purchasements
 
-#### Freshcrm - CRM, Project management
+#### ENTRUST FreshCRM
 - Duration: Apr 2019 - Jul 2019
 - Programming language: Python, JavaScript
-- Technology Or Framework: Odoo, Integration: Sms, Call Center, Messenger Integration
+- Technology Or Framework: Odoo, 
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend, Frontend
-    - Colecting requirements from BA.
-    - Coding & self test
-- Contributing & archivement:
-    - Training junior members
-    - Understand from CRM flows to Sales order created
-    - Understand Facebook Graph API works & integration
+    - Building & customize CRM, Project, Sales Order modules.
+    - Integration Sms Service, Facebook Messenger API.
 
-#### VUABIA - Ecommerce, inventory, sales, promotion, loyalty management
+#### ENTRUST VUABIA (https://vuabia.com)
 - Duration: Jan 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, Integration: Sms, Onepay, Zalo
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Suporter
-    - Optimizing website's assets to speed up & increase performance
+    - Maintain & Optimizing UI/UX for Ecommerce website performance.
 
-#### ENSADO - Sales management
+#### ENTRUST ENSADO
 - Duration: Nov 2018 - Jun 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, Integration: Sms, Lazada API
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend
-    - Colecting requirements from BA.
-    - Communicate & recommend technical solutions
-    - Research & test integration Lazada API
-    - Coding & self test
+    - Building & customize Ecommerce, Sales, Order, Invoices, Inventory modules.
+    - Integration & Synchonize Product with Lazada.
 
-#### URBANCITY - Ecommerce, inventory, sales management
+#### ENTRUST URBANCITY Website
 - Duration: Nov 2018 - Jun 2019
 - Programming language: Python, JavaScript
-- Technology Or Framework: Odoo, SCSS, Jquery, ElasticSearch, Integration: Sms, Onepay, Sapo, LiveChat
+- Technology Or Framework: Odoo, SCSS, Jquery
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend
-    - Colecting requirements from BA.
-    - Communicate & recommend technical solutions
-    - Coding & self test
-    - Support reviewing
+    - Building & customize Ecommerce, Sales, Order, Invoices, Inventory modules.
+    - Integration Sms service, Onepay, Sapo, LiveChat.
+    - Synchonize Product with ElasticSearch for search API.
 
-#### XUANHOA - Ecommerce, sales management
+#### ENTRUST XUANHOA Website (https://xuanhoa.vn)
 - Duration: Sep 2018 - Apr 2019
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, SCSS, Jquery
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend
-    - Colecting requirements from BA.
-    - Communicate & recommend technical solutions
-    - Coding & self test
-- Contributing & archivement:
-    - Understand ecommerce & sales flows
+    - Building & customize Ecommerce, Sales, Order, Invoices modules
 
-#### GIATHUOCHAPU - Ecommerce, sales management
+#### ENTRUST Giathuocsi (https://giathuocsi.com)
 - Duration: Oct 2018 - Dec 2018
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, SCSS, Jquery
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend
-    - Colecting requirements from BA.
-    - Communicate & recommend technical solutions
-    - Coding & self test
-- Contributing & archivement:
-    - Understand ecommerce & sales flows
+    - Building & customize Sales, Ecommerce modules
+    - Building Ecomerce Website for order products.
 
-#### ITBIZ - Sales, contract, email marketing management
+#### ENTRUST ITBIZ
 - Duration: Oct 2018 - Dec 2018
 - Programming language: Python, JavaScript
 - Technology Or Framework: Odoo, SCSS, Jquery
 - Database: PostgreSQL
-- Tools: Pycharm Community, Git
 - Position: Backend
-    - Collect requirements from BA.
-    - Communicate & recommend technical solutions
-    - Coding & self test
-- Contributing & archivement:
-    - Understand how to read the UML diagrams
-    - Experiece to customize a framework
-    - Learn Python programs language
+    - Building & customize Sales, Orders, Contracts & Email Marketing modules.
 
-#### VNPTPAY WEBSITE - Frontend website
+#### VNPTPAY WEBSITE - Frontend website (https://vnptpay.vn)
 - Duration: Jul 2018 - Oct 2018
 - Programming language: JavaScript
 - Technology Or Framework: SCSS, Jquery
-- Tools: VSCode, Git, Zeplin
-- Position: Backend
-    - Colecting information from BA & Designer
-    - Coding & support test.
-- Contributing & archivement:
-    - Learn how to convert from Design to Html Css
-    - Learn Scss syntax and aplly for all projects in the future
+- Position: Frontend
+    - Build frontend website landing page for mobile topup, promotion, invoice payment, ...
